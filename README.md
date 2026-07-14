@@ -74,25 +74,6 @@ pm.environment.set("product_id", jsonData.id);
 4. Select **MyENV1** Environment.
 5. Run the collection using **Collection Runner**.
 
-## 📷 Screenshots
-
-- Login API
-login_API.png 
-
-- Get Products
-get_products.png
-
-- Add Product
-adding_product-2.png
-
-- Update Product
-update_product.png
-
-- Delete Product
-delete_product.png
-
-- Collection Runner Results
-env_runner.png
 
 ## 📁 Repository Structure
 
