@@ -77,7 +77,7 @@ pm.environment.set("product_id", jsonData.id);
 ## 📷 Screenshots
 
 - Login API
-login_API.png
+login_API.png 
 
 - Get Products
 get_products.png
