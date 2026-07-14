@@ -76,14 +76,23 @@ pm.environment.set("product_id", jsonData.id);
 
 ## 📷 Screenshots
 
-Add screenshots of:
-
 - Login API
+![alt text](login_API.png)
+
 - Get Products
+![alt text](get_products.png)
+
 - Add Product
+![alt text](adding_product-2.png)
+
 - Update Product
+![alt text](update_product.png)
+
 - Delete Product
+![alt text](delete_product.png)
+
 - Collection Runner Results
+![alt text](env_runner.png)
 
 ## 📁 Repository Structure
 
